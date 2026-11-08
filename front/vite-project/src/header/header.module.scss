@@ -1,0 +1,22 @@
+header{
+    height: 15vh;
+    background-color: #0F0F0F;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    .block{
+        height: 80%;
+        width: 95%;
+        background-color: #1A1A1A;
+        border-radius: 1rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        .head{
+            width: 93%;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+    }
+}
